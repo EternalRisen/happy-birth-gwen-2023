@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300&display=swap');
+
+body {
+    background-color: #F8C8DC;
+    color: #4b6cd8;
+    text-align: center;
+}
+
+h1 {
+    font-size: 9rem;
+    font-family: "Pinyon Script";
+    padding-top: 0px;
+}
+
+.text{
+    font-size: 3rem;
+    font-family: "Shantell Sans";
+}
